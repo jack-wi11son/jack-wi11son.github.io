@@ -7,7 +7,7 @@ skills:
   - UC3843 PWM Controller
   - Overcurrent Protection
   - Circuit Bench Testing
-main-image: /gocart.webp
+main-image: /gocart.png
 ---
 
 ## Overview

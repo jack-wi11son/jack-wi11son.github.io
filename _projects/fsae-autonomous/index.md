@@ -8,7 +8,7 @@ skills:
   - Computer Vision
   - Path Planning
   - Autonomous Perception
-main-image: /fsae-autonomous.webp
+main-image: /fsae-autonomous.jpg
 ---
 
 ## Overview

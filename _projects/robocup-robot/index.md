@@ -8,7 +8,7 @@ skills:
   - Obstacle Avoidance
   - Embedded C++
   - SOLIDWORKS
-main-image: /robocup.webp
+main-image: /robocup.jpg
 ---
 
 ## Overview

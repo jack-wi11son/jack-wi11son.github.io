@@ -9,7 +9,7 @@ skills:
   - CAN Bus / DBC
   - Link PDM Integration
   - Altium Designer
-main-image: /fsae-ev.webp
+main-image: /fsae.jpg
 ---
 
 ## Overview

@@ -8,7 +8,7 @@ skills:
   - Altium Designer
   - RF Communication (nRF24)
   - Embedded C/C++
-main-image: /wacky-races.webp
+main-image: /wacky.png
 ---
 
 ## Overview

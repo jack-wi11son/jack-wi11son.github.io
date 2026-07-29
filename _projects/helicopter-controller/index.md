@@ -7,7 +7,7 @@ skills:
   - Tiva TM4C123G
   - Real-Time PID Control
   - Interrupt Handlers & ADC
-main-image: /helicopter.webp
+main-image: /tiva-tm4.png
 ---
 
 ## Overview

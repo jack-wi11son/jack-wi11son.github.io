@@ -8,7 +8,7 @@ skills:
   - C/C++
   - Git / CI/CD Pipelines
   - Unit Testing
-main-image: /fitness-monitor.webp
+main-image: /firmware.jpg
 ---
 
 ## Overview

@@ -7,7 +7,7 @@ skills:
   - Dual PCB Design
   - Digital PID Control
   - SOLIDWORKS & 3D Printing
-main-image: /line-follower.webp
+main-image: /lfr.jpg
 ---
 
 ## Overview

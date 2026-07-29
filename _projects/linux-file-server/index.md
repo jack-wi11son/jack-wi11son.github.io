@@ -7,7 +7,7 @@ skills:
   - Self-Hosting / Immich
   - Network Storage & Shares
   - Backup Systems
-main-image: /linux-server.webp
+main-image: /server.jpg
 ---
 
 ## Overview
