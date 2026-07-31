@@ -1,7 +1,6 @@
 ---
 layout: post
 title: RoboCup Autonomous Robot (3rd Place Overall)
-date: 2024-10-01
 description: Fully autonomous robot using a 600 MHz Teensy 4.0 for real-time navigation, dynamic obstacle avoidance, and object collection.
 skills:
   - Teensy 4.0 (Cortex-M7)
