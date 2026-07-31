@@ -8,7 +8,7 @@ skills:
   - C/C++
   - Git / CI/CD Pipelines
   - Unit Testing
-main-image: /firmware.jpg
+main-image: /firmware.png
 ---
 
 ## Overview

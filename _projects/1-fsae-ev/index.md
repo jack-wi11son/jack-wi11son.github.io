@@ -5,7 +5,8 @@ description: Integrated electrical, software, and control systems for UC Motorsp
 skills:
   - MoTeC M1 Build/Tune
   - PID Traction Control
-  - Torque Vectoring
+  - HV Electrical Wiring
+  - Accumulator Assembly
   - CAN Bus / DBC
   - Link PDM Integration
   - Altium Designer
