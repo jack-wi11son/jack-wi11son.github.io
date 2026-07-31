@@ -1,6 +1,7 @@
 ---
 layout: post
 title: High-Speed Line Following Robot
+date: 2023
 description: Custom ATmega328 PCB robot with 3D-printed chassis optimized for fast line tracking using high-rate digital PID control.
 skills:
   - ATmega328

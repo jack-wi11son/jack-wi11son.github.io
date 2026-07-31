@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Fitness Monitor Firmware Restructure
+date: 2025
 description: Refactored legacy embedded firmware into a clean, modular HAL-driver application architecture with automated CI/CD testing.
 skills:
   - Firmware Architecture
