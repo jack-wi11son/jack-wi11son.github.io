@@ -54,7 +54,7 @@ span {
 
 p {
     color: var(--text-color);
-    font-size: calc(9px + 0.5vw);
+    font-size: clamp(10px, calc(7px + 0.4vw), 15px);
     margin-bottom: 1em;
     padding: 0;
   }
