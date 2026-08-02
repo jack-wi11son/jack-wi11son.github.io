@@ -24,4 +24,4 @@ Contributed to system-level design, development, and hardware validation for the
 - **CAN Architecture:** Designed system-level CAN architecture and authored comprehensive CAN DBC files to maintain signal consistency across all node devices and maintain thorough documentation.
 - **Power & Hardware:** Integrated and configured a Link PDM for power distribution, fault handling, and cooling control. Designed custom front wheel speed sensor PCB's and housings. Designed a new driver interface for control dials, start buttons and fault lights. Completed the junction box for HV power monitoring and HV safety control.
 
-{% include image-gallery.html images="1.jpg, 2.jpg, 3.jpg, 4.jpg, 5.jpg, 6.jpg," height="400" %}
+{% include image-gallery.html images="1.jpg, 2.jpg, 3.jpg, 4.jpg, 5.jpg, 6.jpg" height="400" %}
