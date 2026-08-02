@@ -62,6 +62,7 @@ p {
   
 li { /* for the .md normal text */
     font-size: clamp(13.5px, calc(7px + 0.6vw), 15px);
+    margin-bottom: 0.75em;
   }
 
 /* NAVBAR */
