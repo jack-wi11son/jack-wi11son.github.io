@@ -12,10 +12,10 @@ main-image: /lfr.jpg
 
 ## Overview
 
-Designed and built an autonomous robot tasked with following a 20mm wide black line at high speed[cite: 1].
+Designed and built an autonomous robot tasked with following a 20mm wide black line at high speed.
 
 ## Hardware & Software Design
 
-- **Electronics:** Designed two custom PCBs—one dedicated main microcontroller board and one dedicated sensor array board[cite: 1].
-- **Mechanical:** Modeled a lightweight chassis and integrated gearbox drivetrain in SOLIDWORKS, produced via 3D printing[cite: 1].
-- **Control:** Programmed a high-rate digital PID loop in C++ on an ATmega328 to deliver rapid directional feedback[cite: 1].
+- **Electronics:** Designed two custom PCBs—one dedicated main microcontroller board and one dedicated sensor array board.
+- **Mechanical:** Modeled a lightweight chassis and integrated gearbox drivetrain in SOLIDWORKS, produced via 3D printing.
+- **Control:** Programmed a high-rate digital PID loop in C++ on an ATmega328 to deliver rapid directional feedback.

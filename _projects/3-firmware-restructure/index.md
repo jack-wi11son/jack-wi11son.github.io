@@ -13,9 +13,9 @@ main-image: /firmware.png
 
 ## Overview
 
-Refactored existing monolithic embedded firmware into a layered, modular architecture to improve system stability, scalability, and code maintainability[cite: 1].
+Refactored existing monolithic embedded firmware into a layered, modular architecture to improve system stability, scalability, and code maintainability.
 
 ## Key Deliverables
 
-- Separated system code cleanly into Hardware Abstraction Layer (HAL), hardware drivers, and top-level application logic layers[cite: 1].
-- Integrated automated unit testing suites within GitHub Actions CI/CD pipelines for automated build validation[cite: 1].
+- Separated system code cleanly into Hardware Abstraction Layer (HAL), hardware drivers, and top-level application logic layers.
+- Integrated automated unit testing suites within GitHub Actions CI/CD pipelines for automated build validation.

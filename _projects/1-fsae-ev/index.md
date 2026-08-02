@@ -15,13 +15,13 @@ main-image: /fsae.jpg
 
 ## Overview
 
-Contributed to system-level design, development, and hardware validation for the University of Canterbury Motorsport Formula SAE Electric vehicle, which achieved 1st Place Overall in the Australasian EV category[cite: 1].
+Contributed to system-level design, development, and hardware validation for the University of Canterbury Motorsport Formula SAE Electric vehicle, which achieved 1st Place Overall in the Australasian EV category.
 
 ## Technical Implementation
 
-- **Codebase Restructuring:** Refactored the existing MoTeC M1 Build codebase for improved modularity and integrated new DTI inverters and motors[cite: 1].
-- **Vehicle Dynamics & Control:** Implemented and validated PID-based traction control and integrated it with active torque vectoring strategies[cite: 1].
-- **CAN Architecture:** Designed system-level CAN architecture and authored comprehensive CAN DBC files to maintain signal consistency across all node devices[cite: 1].
-- **Power & Hardware:** Integrated and configured a Link PDM for power distribution, fault handling, and cooling control[cite: 1]. Designed custom PCBs and housings for front wheel speed sensors and driver interface dials[cite: 1].
+- **Codebase Restructuring:** Refactored the existing MoTeC M1 Build codebase for improved modularity and integrated new DTI inverters and motors.
+- **Vehicle Dynamics & Control:** Implemented and validated PID-based traction control and integrated it with active torque vectoring strategies.
+- **CAN Architecture:** Designed system-level CAN architecture and authored comprehensive CAN DBC files to maintain signal consistency across all node devices and maintain thorough documentation.
+- **Power & Hardware:** Integrated and configured a Link PDM for power distribution, fault handling, and cooling control. Designed custom front wheel speed sensor PCB's and housings. Designed a new driver interface for control dials, start buttons and fault lights. Completed the junction box for HV power monitoring and HV safety control.
 
-{% include image-gallery.html images="fsae-1.webp, fsae-2.webp" height="400" %}
+{% include image-gallery.html images="1.jpg, 2.jpg, 3.jpg, 4.jpg, 5.jpg, 6.jpg," height="400" %}

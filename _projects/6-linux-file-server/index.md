@@ -12,12 +12,12 @@ main-image: /server.jpg
 
 ## Overview
 
-Configured and maintained a dedicated Linux server to centralize personal media storage, automate local backups, and host personal web services[cite: 1].
+Configured and maintained a dedicated Linux server to centralize personal media storage, automate local backups, and host personal web services.
 
 ## Configuration Details
 
-- Configured SMB/NFS network shares for seamless cross-device file management and scheduled automated system backups[cite: 1].
-- Deployed and managed an Immich photo engine instance for self-hosted, private cloud photo management[cite: 1].
+- Configured SMB/NFS network shares for seamless cross-device file management and scheduled automated system backups.
+- Deployed and managed an Immich photo engine instance for self-hosted, private cloud photo management.
 
 ---
 
