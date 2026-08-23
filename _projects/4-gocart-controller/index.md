@@ -19,3 +19,5 @@ Engineered a fixed-frequency current-mode controller for a 24V DC motor in a cus
 - Implemented hardware-level overcurrent protection and linear accelerator pedal input control.
 - Simulated, bench-tested, and optimized switching circuits to maximize efficiency and response speed.
 - **Outcome:** Successfully validated on vehicle under load, taking 1st place in the time-trial competition.
+
+{% include image-gallery.html images="gocart1.jpg" height="400" %}
