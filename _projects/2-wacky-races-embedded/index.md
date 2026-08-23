@@ -20,3 +20,5 @@ Developed a complete embedded hardware and software ecosystem featuring a remote
 - **Custom Hardware:** Designed a 4-layer PCB using Altium Designer, integrating an onboard buck converter, ADXL345 accelerometer, nRF24 RF module, USB interface, and SWD debugging.
 - **Microcontroller Integration:** Programmed Microchip SAM4S ARM Cortex-M4 microcontrollers for responsive control and sensor acquisition.
 - **Firmware & Workflow:** Managed firmware development in VS-Code using Git, executing structured milestone-based hardware and software validation.
+
+{% include image-gallery.html images="wacky1.jpg, wacky2.jpg" height="400" %}
